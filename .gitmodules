@@ -1,0 +1,6 @@
+[submodule "bilimio-backend"]
+	path = bilimio-backend
+	url = https://github.com/yelamanfazyl/bilimio-backend
+[submodule "bilimio-frontend"]
+	path = bilimio-frontend
+	url = https://github.com/yelamanfazyl/bilimio-frontend
